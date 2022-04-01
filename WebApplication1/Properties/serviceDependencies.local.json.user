@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2022-04-01T06:19:14.4850439Z"
+    },
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2022-04-01T06:19:31.7711872Z"
+    }
+  },
+  "parameters": {
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "cloud-shell-storage-westeurope"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "fea69c22-b7c5-41fa-8a96-e8b10490991e"
+    }
+  }
+}
